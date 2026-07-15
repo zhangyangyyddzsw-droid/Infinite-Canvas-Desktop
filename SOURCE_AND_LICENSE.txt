@@ -1,0 +1,14 @@
+Infinite Canvas desktop build
+
+Original project and source:
+https://github.com/hero8152/Infinite-Canvas
+
+Original author: hero8152 / Daniel8152
+
+This desktop wrapper preserves the original project's custom LICENSE. Personal
+and internal company use are permitted by that license. Commercial repackaging
+requires the author's authorization, and derivative software must remain open
+source with attribution to the original author.
+
+Desktop wrapper source files are kept alongside the original project source in
+the same repository/workspace. See WINDOWS_DESKTOP.md for build instructions.

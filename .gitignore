@@ -1,0 +1,25 @@
+.venv-desktop/
+build/
+dist/
+dist-installer/
+__pycache__/
+*.py[cod]
+
+# Reproducible bundled runtimes and offline dependency archives
+python/
+packages/
+
+# Local credentials and user-specific configuration
+.env
+.env.*
+API/.env
+API/*auth*.json
+global_config.json
+history.json
+
+# Runtime data generated when running outside desktop mode
+output/
+assets/
+data/canvases/
+data/conversations/
+data/media_previews/
